@@ -17,6 +17,7 @@
 ## Summary Statistics on Suspension Coils
 
 Total Summary:
+
 ![Total_Summary_Sus_Coil.png](Total_Summary_Sus_Coil.png)
 
 
@@ -30,6 +31,7 @@ Lot Summary:
  ## T-Tests on Suspension Coils
 
 Lot_1 t.test
+
 ![lot_1_t.test.png](lot_1_t.test.png)
 
 Lot_2 t.test
@@ -38,6 +40,7 @@ Lot_2 t.test
 
 
 Lot_3 t.test
+
 ![lot_3_t.test.png](lot_3_t.test.png)
 
 
